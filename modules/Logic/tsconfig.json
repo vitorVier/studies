@@ -41,6 +41,6 @@
     "moduleDetection": "force",
     "skipLibCheck": true,
   }, 
-  "include": ["src", "dist/arraySum.js"],
+  "include": ["src", "dist/*js"],
   "exclude": ["node_modules", "dist"]
 }
